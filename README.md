@@ -43,9 +43,9 @@ The generated APK can be found in `app/build/outputs/apk/debug/`.
 
 ##  Features
 
-- ✅ **Add Tasks:** Add Tasks
-- 🔄 **Update Tasks:** Undo or Delete tasks from both todo and completed lists
-- ⚠ **Mark Complete:** Move tasks from todo to completed list
+-  **Add Tasks:** Add Tasks
+-  **Update Tasks:** Undo or Delete tasks from both todo and completed lists
+-  **Mark Complete:** Move tasks from todo to completed list
 
 ##  Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
