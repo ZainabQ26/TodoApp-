@@ -2,14 +2,14 @@
 
 A Todo List application built with Kotlin to practice GUI development and clean object-oriented design principles.
 
-## ⚠ Technologies
+##  Technologies
 
 - **Language:** Kotlin
 - **Build Tool:** Gradle
 - **UI Framework:** Jetpack Compose
 - **IDE:** Android Studio
 
-## ⛶ Running the Application
+##  Running the Application
 
 ### Prerequisites
 
@@ -41,11 +41,11 @@ The generated APK can be found in `app/build/outputs/apk/debug/`.
 ./gradlew installDebug
 ```
 
-## ✨ Features
+##  Features
 
 - ✅ **Add Tasks:** Add Tasks
 - 🔄 **Update Tasks:** Undo or Delete tasks from both todo and completed lists
 - ⚠ **Mark Complete:** Move tasks from todo to completed list
 
-## 💬 Contact
+##  Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
